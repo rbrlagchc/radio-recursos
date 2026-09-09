@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Cadena SER",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+    "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200"
+  },
+  {
+    "name": "COPE",
+    "url": "https://flucast09-h-cloud.flumotion.com/cope/net1.mp3",
+    "logo": "https://graph.facebook.com/COPE/picture?width=200&height=200"
+  },
+  {
+    "name": "Onda Cero",
+    "url": "https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8",
+    "logo": "https://graph.facebook.com/ondacero/picture?width=200&height=200"
+  },
+  {
+    "name": "Radio Nacional",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8",
+    "logo": "https://graph.facebook.com/radionacionalrne/picture?width=200&height=200"
+  },
+  {
+    "name": "esRadio",
+    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3",
+    "logo": "https://graph.facebook.com/esradio/picture?width=200&height=200"
+  },
+  {
+    "name": "Radio Marca",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
+    "logo": "https://graph.facebook.com/RadioMARCA/picture?width=200&height=200"
+  },
+  {
+    "name": "Radio 5 RNE",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8",
+    "logo": "https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg"
+  },
+  {
+    "name": "RAC1",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
+    "logo": "https://graph.facebook.com/rac1oficial/picture?width=200&height=200"
+  },
+  {
+    "name": "LOS40",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
+    "logo": "https://graph.facebook.com/los40/picture?width=200&height=200"
+  },
+  {
+    "name": "LOS40 Classic",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
+    "logo": "https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200"
+  },
+  {
+    "name": "Kiss FM",
+    "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+    "logo": "https://graph.facebook.com/kissfm.es/picture?width=200&height=200"
+  },
+  {
+    "name": "Cadena 100",
+    "url": "https://cadena100-cope.flumotion.com/chunks.m3u8",
+    "logo": "https://graph.facebook.com/CADENA100/picture?width=200&height=200"
+  },
+  {
+    "name": "Rock FM",
+    "url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+    "logo": "https://graph.facebook.com/RockFM/picture?width=200&height=200"
+  },
+  {
+    "name": "Europa FM",
+    "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac",
+    "logo": "https://graph.facebook.com/tueuropafm/picture?width=200&height=200"
+  },
+  {
+    "name": "Aragón Radio",
+    "url": "https://eu.mdstrm.com/audio/69934495897db8e420c636a4/live.m3u8",
+    "logo": "https://graph.facebook.com/aragonradio/picture?width=200&height=200"
+  },
+  {
+    "name": "Radio Marca Zaragoza",
+    "url": "https://c6.auracast.net/radio/8020/rmzgz",
+    "logo": "https://pbs.twimg.com/profile_images/827122534864805888/smEko-V6_200x200.jpg"
+  },
+  {
+    "name": "SER Zaragoza",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3",
+    "logo": "https://graph.facebook.com/radiozaragoza/picture?width=200&height=200"
+  },
+  {
+    "name": "COPE Zaragoza",
+    "url": "https://wecast-bl01.flumotion.com/copesedes/zaragoza.mp3",
+    "logo": "https://graph.facebook.com/copezaragoza/picture?width=200&height=200"
+  }
+]
