@@ -93,7 +93,7 @@
         "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
         "name": "Kiss FM",
         "logo": "https://graph.facebook.com/kissfm.es/picture?width=200&height=200"
-    }
+    },
     {
         "url": "https://cadena100-cope.flumotion.com/chunks.m3u8",
         "name": "Cadena 100",
@@ -462,51 +462,4 @@
     {
         "url": "https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3",
         "name": "Canal Sur Radio Málaga",
-        "logo": "https://graph.facebook.com/canalsurmalaga/picture?width=200&height=200"
-    },
-    {
-        "url": "https://rtva-live-radio.flumotion.com/rtva/csrsev.mp3",
-        "name": "Canal Sur Radio Sevilla",
-        "logo": "https://graph.facebook.com/canalsursevilla/picture?width=200&height=200"
-    },
-    {
-        "url": "https://dispatcher.rndfnk.com/crtve/rne1/and/mp3/high",
-        "name": "Radio Nacional Andalucía",
-        "logo": "https://graph.facebook.com/radionacionalrne/picture?width=200&height=200"
-    },
-    {
-        "url": "https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high",
-        "name": "Radio 5 Andalucía",
-        "logo": "https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg"
-    },
-    {
-        "url": "https://streaming.indalteco.net/proxy/radiomarca?mp=/rmarcaalm.mp3",
-        "name": "Marcador Almería",
-        "logo": "https://graph.facebook.com/marcadoralmeria/picture?width=200&height=200"
-    },
-    {
-        "url": "https://malagafm.streaming-pro.com:8131/malagafmmobile",
-        "name": "Radio Marca Málaga",
-        "logo": "https://graph.facebook.com/radiomarcamalaga/picture?width=200&height=200"
-    },
-    {
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_SEVILLA.mp3",
-        "name": "Radio Marca Sevilla",
-        "logo": "https://pbs.twimg.com/profile_images/830439040218439682/M7-5RkWu_200x200.jpg"
-    },
-    {
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS.mp3",
-        "name": "SER Algeciras",
-        "logo": "https://graph.facebook.com/radioalgeciras/picture?width=200&height=200"
-    },
-    {
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3",
-        "name": "SER Almería",
-        "logo": "https://graph.facebook.com/SERAlmeria/picture?width=200&height=200"
-    },
-    {
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3",
-        "name": "SER Almería",
-        "logo": "https://graph.facebook.com/SERAlmeria/picture?width=200&height=200"
-    },
-]
+        "logo": "https://graph.facebook.com/canalsurmalaga/picture?width=20
