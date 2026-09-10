@@ -1,8 +1,3 @@
-El JSON contiene varios errores de sintaxis que impedían que fuera un documento válido:
- * Separadores y corchetes faltantes: Faltaba una coma , después del objeto SER Axarquí­a, abría el objeto SER Baza sin una llave {, faltaba otra coma , al final de SER Coca SER Ronda, y faltaba cerrar el array principal ].
- * Sintaxis de objetos desconectados: Los objetos finales (radioepila y Aragón Radio) estaban sueltos sin comas de separación ni formar parte de la lista general.
- * Caracteres mal codificados: Se corrigió la codificación de caracteres especiales (como Ã¡ por á o Ã© por é).
-Aquí tienes el JSON estructurado y totalmente corregido:
 [
   {
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac",
