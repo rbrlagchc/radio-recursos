@@ -443,16 +443,15 @@
         "url": "https://rtva-live-radio.flumotion.com/rtva/csrgra.mp3",
         "name": "Canal Sur Radio Granada",
         "logo": "https://graph.facebook.com/canalsurgranada/picture?width=200&height=200"
-    }
-
+    }.
     {
     "name": [span_0](start_span)"Radio Epila 107.5 FM[span_0](end_span)",
     "logo": "https://images.zeno.fm/uN4bXjQY_k6QzR6Jk2-vG0-V6f2M7NfW1Q2hK9V1N8k/rs:fit:240:240/g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm8tZGV2L2FydHdvcmstdXBsb2Fkcy9wb2RjYXN0cy9zaG93cy8xMDc1Zm0vY292ZXIucG5n.jpg",
     "url": "https://stream.zeno.fm/radioepila"
-    }
+    }.
     {
     "url": "https://aragonradio-lh.akamaihd.net/i/AragonRadio_1@395585/master.m3u8",
     "name": "Aragon Radio",
     "logo": "https://www.aragonradio.es/logo.png"
-}
+    }.
 ]
