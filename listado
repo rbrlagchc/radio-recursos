@@ -524,7 +524,7 @@
         "name":  "SER AxarquÃ­a",
         "logo":  "https://graph.facebook.com/cadenaser/picture?width=200\u0026height=200"
     },
-    {
+    
         "url":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BAZA.mp3",
         "name":  "SER Baza",
         "logo":  "https://pbs.twimg.com/profile_images/1362728539993309185/B2NJDAT0_200x200.jpg"
@@ -534,10 +534,10 @@
         "name":  "SER CÃ¡diz",
         "logo":  "https://graph.facebook.com/radiocadizcadenaser/picture?width=200\u0026height=200"
     },
-    {
+    
         "url":  "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RONDA.mp3",
         "name":  "SER Coca SER Ronda",
         "logo":  "https://graph.facebook.com/SERRonda/picture?width=200\u0026height=200"
-    },
-    {
-        "url":  
+    }
+    
+
